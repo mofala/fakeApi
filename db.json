@@ -1,8 +1,10 @@
+
 {
-  "popups": [
-  {
-    "id" : 1,
-    "popup" : "https://media.sproutsocial.com/uploads/2015/04/What-is-an-API.png",
-    "url": "https://google.com"}
-  ]
+  "popups": 
+    {
+      "id": 1,
+      "popup" : "https://media.sproutsocial.com/uploads/2015/04/What-is-an-API.png",
+      "url": "https://google.com"
+    }
+  
 }
